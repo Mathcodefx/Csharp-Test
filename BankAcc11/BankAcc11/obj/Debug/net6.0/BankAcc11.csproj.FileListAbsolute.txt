@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\bin\Debug\net6.0\BankAcc11.exe
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\bin\Debug\net6.0\BankAcc11.deps.json
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\bin\Debug\net6.0\BankAcc11.runtimeconfig.json
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\bin\Debug\net6.0\BankAcc11.dll
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\bin\Debug\net6.0\BankAcc11.pdb
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\obj\Debug\net6.0\BankAcc11.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\obj\Debug\net6.0\BankAcc11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\obj\Debug\net6.0\BankAcc11.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\obj\Debug\net6.0\BankAcc11.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\obj\Debug\net6.0\BankAcc11.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\obj\Debug\net6.0\BankAcc11.dll
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\obj\Debug\net6.0\refint\BankAcc11.dll
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\obj\Debug\net6.0\BankAcc11.pdb
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\obj\Debug\net6.0\BankAcc11.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\EstudoC#\BankAcc11\BankAcc11\obj\Debug\net6.0\ref\BankAcc11.dll
