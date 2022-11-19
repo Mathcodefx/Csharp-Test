@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\bin\Debug\net6.0\NumeroRandom.exe
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\bin\Debug\net6.0\NumeroRandom.deps.json
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\bin\Debug\net6.0\NumeroRandom.runtimeconfig.json
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\bin\Debug\net6.0\NumeroRandom.dll
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\bin\Debug\net6.0\NumeroRandom.pdb
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.dll
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\refint\NumeroRandom.dll
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.pdb
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\NumeroRandom.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\exercicio c#\NumeroRandom\NumeroRandom\obj\Debug\net6.0\ref\NumeroRandom.dll

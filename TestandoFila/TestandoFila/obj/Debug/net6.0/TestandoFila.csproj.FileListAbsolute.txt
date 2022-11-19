@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\bin\Debug\net6.0\TestandoFila.exe
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\bin\Debug\net6.0\TestandoFila.deps.json
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\bin\Debug\net6.0\TestandoFila.runtimeconfig.json
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\bin\Debug\net6.0\TestandoFila.dll
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\bin\Debug\net6.0\TestandoFila.pdb
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\obj\Debug\net6.0\TestandoFila.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\obj\Debug\net6.0\TestandoFila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\obj\Debug\net6.0\TestandoFila.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\obj\Debug\net6.0\TestandoFila.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\obj\Debug\net6.0\TestandoFila.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\obj\Debug\net6.0\TestandoFila.dll
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\obj\Debug\net6.0\refint\TestandoFila.dll
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\obj\Debug\net6.0\TestandoFila.pdb
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\obj\Debug\net6.0\TestandoFila.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\EstudoC#\TestandoFila\TestandoFila\obj\Debug\net6.0\ref\TestandoFila.dll

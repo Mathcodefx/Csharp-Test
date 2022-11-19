@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\bin\Debug\net6.0\NotasAluno.exe
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\bin\Debug\net6.0\NotasAluno.deps.json
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\bin\Debug\net6.0\NotasAluno.runtimeconfig.json
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\bin\Debug\net6.0\NotasAluno.dll
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\bin\Debug\net6.0\NotasAluno.pdb
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\obj\Debug\net6.0\NotasAluno.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\obj\Debug\net6.0\NotasAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\obj\Debug\net6.0\NotasAluno.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\obj\Debug\net6.0\NotasAluno.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\obj\Debug\net6.0\NotasAluno.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\obj\Debug\net6.0\NotasAluno.dll
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\obj\Debug\net6.0\refint\NotasAluno.dll
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\obj\Debug\net6.0\NotasAluno.pdb
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\obj\Debug\net6.0\NotasAluno.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\exercicio c#\NotasAluno\NotasAluno\obj\Debug\net6.0\ref\NotasAluno.dll

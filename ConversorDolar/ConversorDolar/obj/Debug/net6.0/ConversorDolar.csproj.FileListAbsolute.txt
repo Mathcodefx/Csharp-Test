@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\bin\Debug\net6.0\ConversorDolar.exe
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\bin\Debug\net6.0\ConversorDolar.deps.json
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\bin\Debug\net6.0\ConversorDolar.runtimeconfig.json
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\bin\Debug\net6.0\ConversorDolar.dll
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\bin\Debug\net6.0\ConversorDolar.pdb
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\obj\Debug\net6.0\ConversorDolar.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\obj\Debug\net6.0\ConversorDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\obj\Debug\net6.0\ConversorDolar.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\obj\Debug\net6.0\ConversorDolar.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\obj\Debug\net6.0\ConversorDolar.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\obj\Debug\net6.0\ConversorDolar.dll
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\obj\Debug\net6.0\refint\ConversorDolar.dll
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\obj\Debug\net6.0\ConversorDolar.pdb
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\obj\Debug\net6.0\ConversorDolar.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\exercicio c#\ConversorDolar\ConversorDolar\obj\Debug\net6.0\ref\ConversorDolar.dll

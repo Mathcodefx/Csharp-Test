@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\bin\Debug\net6.0\testando stack.exe
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\bin\Debug\net6.0\testando stack.deps.json
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\bin\Debug\net6.0\testando stack.runtimeconfig.json
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\bin\Debug\net6.0\testando stack.dll
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\bin\Debug\net6.0\testando stack.pdb
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\obj\Debug\net6.0\testando stack.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\obj\Debug\net6.0\testando stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\obj\Debug\net6.0\testando stack.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\obj\Debug\net6.0\testando stack.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\obj\Debug\net6.0\testando stack.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\obj\Debug\net6.0\testando stack.dll
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\obj\Debug\net6.0\refint\testando stack.dll
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\obj\Debug\net6.0\testando stack.pdb
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\obj\Debug\net6.0\testando stack.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\exercicio c#\testando stack\testando stack\obj\Debug\net6.0\ref\testando stack.dll
