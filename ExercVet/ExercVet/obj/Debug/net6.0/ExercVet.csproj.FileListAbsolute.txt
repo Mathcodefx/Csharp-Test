@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\bin\Debug\net6.0\ExercVet.exe
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\bin\Debug\net6.0\ExercVet.deps.json
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\bin\Debug\net6.0\ExercVet.runtimeconfig.json
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\bin\Debug\net6.0\ExercVet.dll
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\bin\Debug\net6.0\ExercVet.pdb
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\obj\Debug\net6.0\ExercVet.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\obj\Debug\net6.0\ExercVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\obj\Debug\net6.0\ExercVet.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\obj\Debug\net6.0\ExercVet.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\obj\Debug\net6.0\ExercVet.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\obj\Debug\net6.0\ExercVet.dll
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\obj\Debug\net6.0\refint\ExercVet.dll
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\obj\Debug\net6.0\ExercVet.pdb
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\obj\Debug\net6.0\ExercVet.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\asdw\ExercVet\ExercVet\obj\Debug\net6.0\ref\ExercVet.dll
