@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\obj\Debug\net6.0\ListasCourse.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\obj\Debug\net6.0\ListasCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\obj\Debug\net6.0\ListasCourse.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\obj\Debug\net6.0\ListasCourse.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\obj\Debug\net6.0\ListasCourse.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\bin\Debug\net6.0\ListasCourse.exe
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\bin\Debug\net6.0\ListasCourse.deps.json
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\bin\Debug\net6.0\ListasCourse.runtimeconfig.json
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\bin\Debug\net6.0\ListasCourse.dll
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\bin\Debug\net6.0\ListasCourse.pdb
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\obj\Debug\net6.0\ListasCourse.dll
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\obj\Debug\net6.0\refint\ListasCourse.dll
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\obj\Debug\net6.0\ListasCourse.pdb
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\obj\Debug\net6.0\ListasCourse.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\asdw\ListasCourse\ListasCourse\obj\Debug\net6.0\ref\ListasCourse.dll
