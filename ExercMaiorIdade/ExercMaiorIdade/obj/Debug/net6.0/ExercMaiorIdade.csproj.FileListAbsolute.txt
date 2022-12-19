@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\bin\Debug\net6.0\ExercMaiorIdade.exe
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\bin\Debug\net6.0\ExercMaiorIdade.deps.json
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\bin\Debug\net6.0\ExercMaiorIdade.runtimeconfig.json
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\bin\Debug\net6.0\ExercMaiorIdade.dll
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\bin\Debug\net6.0\ExercMaiorIdade.pdb
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\obj\Debug\net6.0\ExercMaiorIdade.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\obj\Debug\net6.0\ExercMaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\obj\Debug\net6.0\ExercMaiorIdade.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\obj\Debug\net6.0\ExercMaiorIdade.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\obj\Debug\net6.0\ExercMaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\obj\Debug\net6.0\ExercMaiorIdade.dll
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\obj\Debug\net6.0\refint\ExercMaiorIdade.dll
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\obj\Debug\net6.0\ExercMaiorIdade.pdb
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\obj\Debug\net6.0\ExercMaiorIdade.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\asdw\ExercMaiorIdade\ExercMaiorIdade\obj\Debug\net6.0\ref\ExercMaiorIdade.dll
